@@ -1,1 +1,2 @@
 # Stepper-motor-control
+This repository contains code that I have written while learning how to control unipolar and bipolar stepper motors. My goal was to understand the fundamental workings of stepper motors. Therefore, I will not be using any libraries for programming the microcontroller; instead, I have written functions to set the pin states that control the MOSFETs connected to the internal coils of the stepper motors. I am using an Arduino and an L298N motor driver for the MOSFETs.
